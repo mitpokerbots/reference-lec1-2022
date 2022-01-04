@@ -1,2 +1,2 @@
 # reference-lec1-2022
-Pair All In Bot
+Lecture 1 reference bot. Implements All in Pair Bot
